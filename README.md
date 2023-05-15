@@ -1,5 +1,5 @@
 # js-projesi
-
+http://hayaletoyunu1991.eu5.org/
 ## Oyunun Amacı
 **Engellerin arasından geçerek en yüksek skora ulaşmak**<br>
 ## Oynanış
