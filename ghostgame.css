@@ -1,0 +1,19 @@
+body {
+    font-family:Verdana;
+    text-align: center;
+    background-color: black;
+    color : white;
+}
+  #tanitim {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translate(0, -50%);
+    text-align: left !important;
+    font-size: 20px;
+  }
+  
+#canvas {
+    background-image: url("images/ghostbg.png");
+    
+}
